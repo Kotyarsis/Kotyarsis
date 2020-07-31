@@ -1,1 +1,7 @@
-![Моя статистика](https://github-readme-stats.vercel.app/api?username=Kotyarsis&show_icons=true)
+# Привет
+
+Я Никита и я JS'ер
+
+## Что тут можно найти?
+
+Пока что ровным счётом нихрена
